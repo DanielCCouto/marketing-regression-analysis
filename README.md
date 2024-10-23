@@ -15,15 +15,18 @@ Realizamos uma análise de correlação entre as variáveis para identificar os 
 3. Modelagem
 Utilizamos o scikit-learn para construir um modelo de regressão linear.
 Dividimos os dados em conjuntos de treino e teste, e treinamos o modelo com os dados de treino.
+
 4. Predição e Avaliação
 Usamos o coeficiente de determinação (R²) para avaliar a precisão do modelo.
 Realizamos previsões para estimar o impacto dos investimentos nas vendas futuras.
+
 Bibliotecas Utilizadas
 pandas
 seaborn
 matplotlib
 scikit-learn
 plotly
+
 Como Executar o Projeto
 Faça o download do dataset MKT.csv.
 Execute o código em um ambiente Python, como Google Colab ou Jupyter Notebook.
